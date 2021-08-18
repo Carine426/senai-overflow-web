@@ -8,6 +8,9 @@ width: 100vw;
 position: fixed;
 height: 60px;
 background-color: var(--primary);
+top: 0;
+
+
 
 display: flex;
 align-items: center;
